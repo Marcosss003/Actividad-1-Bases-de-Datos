@@ -1,0 +1,4 @@
+CREATE TABLE juez (
+    idJuez NUMBER(5) PRIMARY KEY,
+    nombreJuez VARCHAR2(100) NOT NULL
+);

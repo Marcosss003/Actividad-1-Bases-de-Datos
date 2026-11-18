@@ -1,0 +1,16 @@
+INSERT INTO inscripcion VALUES
+(1, 1, TO_DATE('01/12/2026', 'DD/MM/YYYY'));
+
+INSERT INTO inscripcion VALUES
+(2, 2, TO_DATE('05/12/2026', 'DD/MM/YYYY'));
+
+INSERT INTO inscripcion VALUES
+(3, 3, TO_DATE('10/12/2026', 'DD/MM/YYYY'));
+
+INSERT INTO inscripcion VALUES
+(4, 4, TO_DATE('15/12/2026', 'DD/MM/YYYY'));
+
+INSERT INTO inscripcion VALUES
+(5, 5, TO_DATE('20/12/2026', 'DD/MM/YYYY'));
+
+COMMIT;

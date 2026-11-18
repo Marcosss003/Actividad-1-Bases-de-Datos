@@ -1,0 +1,18 @@
+INSERT INTO inscripcion VALUES
+(1, 1, TO_DATE('01/12/2026', 'DD/MM/YYYY'));
+
+INSERT INTO inscripcion VALUES
+(1, NULL, TO_DATE('01/12/2026', 'DD/MM/YYYY'));
+
+INSERT INTO inscripcion VALUES
+(1, NULL, TO_DATE('01/12/2026', 'DD/MM/YYYY'));
+
+INSERT INTO inscripcion VALUES
+(1, 2, NULL);
+
+INSERT INTO inscripcion VALUES
+(999, 1, TO_DATE('01/12/2026', 'DD/MM/YYYY'));
+
+INSERT INTO inscripcion VALUES
+(1, 999, TO_DATE('01/12/2026', 'DD/MM/YYYY'));
+
